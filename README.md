@@ -1,1 +1,2 @@
-Thi is the code of the game I wil update until it's finished
+# Code
+In here i'm going to update the HTML code that i'm making to make a game implementing javascript
